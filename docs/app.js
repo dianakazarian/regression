@@ -3,7 +3,7 @@
 marked.setOptions({ gfm:true, mangle:false, headerIds:false });
 
 const ORDERED_NOTES = [
-  { file: "ordinary_least_squares.md", title: "Section 1" }
+  { file: "ordinary_least_squares.md", title: "Section 1: Ordinary Least Squares" }
 ];
 
 function $id(id){ return document.getElementById(id); }
