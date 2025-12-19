@@ -2,7 +2,6 @@ _Overview: Results & derivations for OLS results._
 
 ## Section [?]: Much Ado About Omitted Variables
 
-
 In the social sciences, we spend a lot of time thinking and talking about omitted variables. This is because there are often key variables that compromise our ability to identify $\hat\beta$. Let us make this more precise.
 
 Suppose we are interested in calculating $\beta$ in the following model:
