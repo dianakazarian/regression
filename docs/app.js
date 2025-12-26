@@ -3,7 +3,8 @@
 marked.setOptions({ gfm:true, mangle:false, headerIds:false });
 
 const ORDERED_NOTES = [
-  { file: "ordinary_least_squares.md", title: "Section 1: Ordinary Least Squares" },
+  { file: "linear_regression.md", title: "Section 1: Linear Regression" },
+  { file: "ordinary_least_squares.md", title: "Section 2: Ordinary Least Squares" },
   { file: "omitted_variables.md", title: "Section [?]: Much Ado About Omitted Variables" },
 ];
 
